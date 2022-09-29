@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "byebyenoyance:item/sculked_deepslate_bricks"
+  }
+}

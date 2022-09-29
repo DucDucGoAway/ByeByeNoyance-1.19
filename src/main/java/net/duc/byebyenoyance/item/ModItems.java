@@ -9,7 +9,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
     public static final Item SCULKED_DEEPSLATE_BRICKS = registerItem("sculked_deepslate_bricks",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
 
 
 
