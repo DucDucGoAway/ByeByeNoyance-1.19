@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate_bricks"
+    },
+    {
+      "item": "minecraft:sculk_vein"
+    }
+  ],
+  "result": {
+    "item": "byebyenoyance:sculked_deepslate_bricks"
+  }
+}
