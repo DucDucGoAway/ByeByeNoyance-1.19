@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "byebyenoyance:block/sculked_deepslate_bricks"
+  }
+}

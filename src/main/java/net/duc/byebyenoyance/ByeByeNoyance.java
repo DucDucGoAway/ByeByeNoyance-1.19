@@ -1,6 +1,6 @@
 package net.duc.byebyenoyance;
 
-import net.duc.byebyenoyance.item.ModItems;
+import net.duc.byebyenoyance.block.ModBlocks;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,7 +12,8 @@ public class ByeByeNoyance implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		ModItems.registerModItems();
+
+		ModBlocks.registerModBlocks();
 
 	}
 }
