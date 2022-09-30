@@ -1,9 +1,5 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is a mod that is supposed to fix things that annoy me and I wan't to get rid of in creative ways
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the MIT license. Pls Credit me if you want to use this stuff
